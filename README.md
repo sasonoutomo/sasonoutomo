@@ -55,4 +55,20 @@ Here are some ideas to get you started:
 
 ![Sasono GitHub stats](https://github-readme-stats.vercel.app/api?username=sasonoutomo&show_icons=true&theme=blue-green)
 
+<h5 align="left">Play games with me</h5>
+
+###
+
+<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ![Happy Birtday](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWR4OHU1YjN3cmZ6aTFtZ2RraXRqb2RxY2h1MjU1NGJod2ZicmhzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hHifLbLhEloqfDwWs0/giphy.gif)
