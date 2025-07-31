@@ -64,14 +64,7 @@ Here are some ideas to get you started:
 
 ###
 
-<!-- Pacman contribution graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sasonoutomo/sasonoutomo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sasonoutomo/sasonoutomo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sasonoutomo/sasonoutomo/output/pacman-contribution-graph.svg">
-</picture>
 
-###
 
 
 ![Happy Birtday](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWR4OHU1YjN3cmZ6aTFtZ2RraXRqb2RxY2h1MjU1NGJod2ZicmhzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hHifLbLhEloqfDwWs0/giphy.gif)
